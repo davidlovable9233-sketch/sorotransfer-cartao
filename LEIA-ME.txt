@@ -1,0 +1,7 @@
+SOROTRANSFER — CARTÃO DIGITAL
+
+Abra index.html no navegador para visualizar o cartão.
+O botão Compartilhar abre o menu nativo de compartilhamento do aparelho quando suportado. Se o cartão estiver aberto como arquivo local, ele compartilha a apresentação em texto, pois um arquivo local não possui um link público acessível a outras pessoas.
+Para compartilhar o cartão como um link clicável, publique a pasta/site em um serviço de hospedagem e abra a versão publicada por HTTPS. Na versão hospedada, o botão compartilha o endereço público do cartão.
+
+Importante: confira a chave Pix e o destinatário no aplicativo do banco antes de receber pagamentos.
